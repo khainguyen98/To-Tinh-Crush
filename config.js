@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Ngoan xinh iu của khải ơiiii :>',
-    introDesc: `Nay là 14/2 nè 
+    introDesc: 'Nay là 14/2 nè 
     Chúc bé iu anh iu hơn nè
     Quý anh nhiều hơn nè
     Yêu em nhiều lắm`,
